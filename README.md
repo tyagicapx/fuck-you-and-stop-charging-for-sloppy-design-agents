@@ -20,7 +20,7 @@ Drop your design references → answer a few taste questions → get a complete 
 
 ## The Problem
 
-Every "AI design tool" charges you $20-50/month to generate the same generic, soulless UI that looks like it was designed by committee in 2021. They don't understand **your** taste. They can't tell the difference between Linear's surgical precision and Notion's warm approachability. They just slap gradients on everything and call it "modern."
+Most AI design tool or agent out there today feels like paying a $20-50 monthly tax for mediocrity. They don't actually have "taste" - they just recycle the safest, most generic UI trends from 2021 and call it modern. Because these tools can’t feel the difference between the surgical, sharp precision of Linear and the warm, approachable vibe of Notion, they just default to slapping gradients on everything. We’re left with "soulless" interfaces that look like they were designed by a committee that hasn't seen a new idea in years. It’s all pixels and zero personality.
 
 ## The Solution
 
