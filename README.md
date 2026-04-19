@@ -12,7 +12,7 @@ Drop your design references → answer a few taste questions → get a complete 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blueviolet)](#installation)
-[![Stars](https://img.shields.io/github/stars/tyagicapx/fuck-you-and-stop-charging-for-sloppy-design-agents?style=social)](https://github.com/tyagicapx/fuck-you-and-stop-charging-for-sloppy-design-agents/stargazers)
+[![Stars](https://img.shields.io/github/stars/vb-tyagi/fuck-you-and-stop-charging-for-sloppy-design-agents?style=social)](https://github.com/vb-tyagi/fuck-you-and-stop-charging-for-sloppy-design-agents/stargazers)
 
 </div>
 
@@ -71,7 +71,7 @@ Every screen traces back to your taste spec. Consistency across 50 screens. One 
 ```bash
 mkdir -p ~/.claude/skills/fuck-you-and-stop-charging-for-sloppy-design-agents
 curl -o ~/.claude/skills/fuck-you-and-stop-charging-for-sloppy-design-agents/SKILL.md \
-  https://raw.githubusercontent.com/tyagicapx/fuck-you-and-stop-charging-for-sloppy-design-agents/main/SKILL.md
+  https://raw.githubusercontent.com/vb-tyagi/fuck-you-and-stop-charging-for-sloppy-design-agents/main/SKILL.md
 ```
 
 ### 2. That's it
